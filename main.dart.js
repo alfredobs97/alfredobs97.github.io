@@ -40766,7 +40766,7 @@ $0:function(){$.D1().aF("open",["https://twitter.com/alfredobs97"])},
 $S:0}
 F.wd.prototype={
 J:function(a){var t=null,s=C.Y.i(0,100),r=C.Z.i(0,300),q=C.pm.i(0,800),p=X.Tg(t,t,C.T,t,t).a7,o=B.dv(p.a),n=B.dv(p.b),m=B.dv(p.c),l=B.dv(p.d),k=B.dv(p.e),j=B.dv(p.f),i=B.dv(p.r),h=B.dv(p.y),g=B.dv(p.z),f=B.dv(p.Q),e=B.dv(p.ch),d=B.dv(p.x)
-return new S.ok(new F.ow(t),"Flutter Demo",X.Tg(r,s,t,q,R.Te(g,h,t,t,e,f,l,m,n,o,k,t,t,t,t,t,t,B.dv(p.cx),i,d,t,t,j)),t)}}
+return new S.ok(new F.ow(t),"Alfredo Website",X.Tg(r,s,t,q,R.Te(g,h,t,t,e,f,l,m,n,o,k,t,t,t,t,t,t,B.dv(p.cx),i,d,t,t,j)),t)}}
 F.ow.prototype={
 aN:function(){return new F.AM(C.q)}}
 F.AM.prototype={
